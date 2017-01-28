@@ -1,5 +1,4 @@
 #!/usr/bin/env tclsh
-# MOTD script original? / mod mewbies.com
 
 # * Variables
 set var(user) $env(USER)
