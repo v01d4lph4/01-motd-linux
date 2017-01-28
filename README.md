@@ -1,6 +1,7 @@
 # 01-motd-linux
-Just an attempt to make your login(s) into shell more fun.
----
+
+_Just an attempt to make your login(s) into shell more fun._
+
 ### To get started, here's what to do :+1:
 1. Remove the contents of ```/etc/motd```
 2. Comment out ```uname -snrvm > /var/run/motd.dynamic``` in ```/etc/init.d/motd```
