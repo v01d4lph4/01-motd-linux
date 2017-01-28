@@ -2,6 +2,10 @@
 
 _Just an attempt to make your login(s) into shell more fun._
 
+<p align="center">
+  <img src="https://github.com/v01d4lph4/01-motd-linux/blob/master/motd.png?raw=true"/>
+</p>
+
 ### To get started, here's what to do :+1:
 1. Remove the contents of ```/etc/motd```
 2. Comment out ```uname -snrvm > /var/run/motd.dynamic``` in ```/etc/init.d/motd```
